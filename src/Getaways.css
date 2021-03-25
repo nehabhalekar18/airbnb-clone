@@ -1,0 +1,28 @@
+.getaway {
+  padding: 30px;
+}
+.getaway > h1 {
+  color: #222222;
+}
+.getaway__sections {
+  display: flex;
+  border-bottom: 1px solid lightgray;
+}
+
+.getaway__type:active,
+.getaway__type:hover {
+  border-bottom: 2px solid #000000;
+  color: #000000;
+}
+.getaway__type > button:hover {
+  color: #000000;
+}
+.getaway__type > button {
+  text-transform: none;
+  margin-bottom: 5px;
+  border-radius: 8px;
+  color: rgb(113, 113, 113);
+  font-weight: 500;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    "Helvetica Neue", sans-serif !important;
+}

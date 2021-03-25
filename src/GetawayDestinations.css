@@ -1,0 +1,10 @@
+.getawayDestinations {
+  justify-content: space-between;
+  max-width: 100%;
+  /* overflow: auto; */
+  flex-flow: wrap;
+  display: flex;
+}
+.getawayDestinations_place {
+  /*  margin: 0 100px; */
+}
