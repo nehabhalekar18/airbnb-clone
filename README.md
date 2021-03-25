@@ -1,6 +1,6 @@
 # Airbnb UI Implementation
 
-The project is developed as a part of Usabiltiy Testing and Verification module as per the curriculum.
+The project is developed as a part of the Usabilitiy Testing and Verification module as per the curriculum.
 
 ## Framework
 
