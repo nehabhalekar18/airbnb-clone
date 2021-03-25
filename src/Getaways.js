@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import GetawayDestinations from "./GetawayDestinations";
 import "./Getaways.css";
 function Getaways() {
-  const [showArts, setShowArts] = useState(true);
+  const [showArts] = useState(true);
   return (
     <div className="getaway">
       <h1>Inspiration for future getaways</h1>

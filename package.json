@@ -19,7 +19,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "jest",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -42,9 +41,6 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {
-    "jest": "^26.6.3"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC"

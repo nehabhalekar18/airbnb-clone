@@ -2,7 +2,7 @@ import Footer from "./Footer";
 import Header from "./Header";
 import Home from "./Home";
 import SearchPage from "./SearchPage";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
@@ -12,7 +12,6 @@ function App() {
         <Header />
         <Switch>
           <Route path="/" exact component={Home} />
-
           <Route path="/search" exact component={SearchPage} />
         </Switch>
         {/* Footer */}
